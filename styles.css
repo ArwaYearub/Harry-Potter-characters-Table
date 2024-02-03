@@ -1,0 +1,32 @@
+body{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ size: 30px; 
+ background-image: url(hogwarts.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+table{
+    color:aliceblue;
+    border: 1px solid rgba(255, 0, 0, 0);
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 70%;
+    height: 30%;
+}
+.header{
+    color: black;
+    background-color: blanchedalmond;
+}
+.my-love{
+    background-color: rgb(40, 80, 35);
+}
+.potter{
+    background-color: rgb(163, 53, 53);
+}
+.queen{
+    background-color: rgb(163, 53, 53);
+}
